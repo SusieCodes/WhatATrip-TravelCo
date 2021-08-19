@@ -1,3 +1,12 @@
+This is the Style Tile I created for my team using Figma.
+
+
+![designstyletile](whatatripstyletile.png)
+
+
+
+INSTRUCTIONS
+
 # Hello, World
 
 ## Goal
